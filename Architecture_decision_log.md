@@ -26,3 +26,5 @@ Relational DBs are proven technolgy, and sensible default if there are no other 
 
 ## Use Elastic (or Elastic Search) as data store for offers matching
 Elastic offers good performance when providing data recommendations and searching based on multiple criteria
+
+
